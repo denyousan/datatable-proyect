@@ -1,0 +1,1 @@
+make a small frame work to perform CRUD operations on a datatable without using any framework. only pure javascript
